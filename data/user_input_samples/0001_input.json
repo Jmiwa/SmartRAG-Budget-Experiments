@@ -1,0 +1,56 @@
+{
+  "consultation_text": "A 45-year-old office worker living alone is considering changing jobs due to chronic health concerns. The individual owns a small condominium with an outstanding mortgage and has moderate savings. They are uncertain whether early career changes would affect long-term financial stability.",
+  "financial_data": {
+    "income": [
+      {
+        "label": "Salary (Net)",
+        "amount_yen": 250000
+      }
+    ],
+    "expenses": [
+      {
+        "label": "Housing",
+        "amount_yen": 68000
+      },
+      {
+        "label": "Food",
+        "amount_yen": 38000
+      },
+      {
+        "label": "Utilities",
+        "amount_yen": 15000
+      },
+      {
+        "label": "Communication",
+        "amount_yen": 8000
+      },
+      {
+        "label": "Leisure",
+        "amount_yen": 12000
+      },
+      {
+        "label": "Miscellaneous",
+        "amount_yen": 45000
+      },
+      {
+        "label": "Insurance",
+        "amount_yen": 14000
+      }
+    ],
+    "savings": [
+      {
+        "label": "Bank Savings",
+        "amount_yen": 5000000
+      }
+    ],
+    "investments": [],
+    "totals": {
+      "income_monthly_yen": 250000,
+      "expense_monthly_yen": 200000,
+      "savings_total_yen": 5000000,
+      "investments_total_yen": 0,
+      "savings_monthly_yen": 50000,
+      "investments_monthly_yen": 0
+    }
+  }
+}
