@@ -55,6 +55,14 @@ sample_outputs/        # Example generated outputs
 
 ## Example Execution
 
+## Setup
+
+Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
 ### LLM-only
 
 ```
