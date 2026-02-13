@@ -1,0 +1,26 @@
+{
+    "advice_text": "Thank you for sharing your situation. Since you are considering a job change due to health concerns, the key is to keep monthly cash flow stable while preserving an emergency fund. Start by reviewing fixed costs (especially insurance) and setting a clear monthly spending cap for discretionary categories. If you plan to change jobs, aim to maintain at least six months of living expenses in readily accessible savings before making any irreversible decisions.",
+    "reduction_plan": {
+        "Housing": {
+            "reduction_rate": 0.0
+        },
+        "Food": {
+            "reduction_rate": 0.05
+        },
+        "Utilities": {
+            "reduction_rate": 0.0
+        },
+        "Communication": {
+            "reduction_rate": 0.10
+        },
+        "Leisure": {
+            "reduction_rate": 0.10
+        },
+        "Miscellaneous": {
+            "reduction_rate": 0.15
+        },
+        "Insurance": {
+            "reduction_rate": 0.20
+        }
+    }
+}

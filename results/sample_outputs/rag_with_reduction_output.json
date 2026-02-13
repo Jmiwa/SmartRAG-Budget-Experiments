@@ -1,0 +1,26 @@
+{
+    "advice_text": "To strengthen financial resilience during a job change, prioritize reductions that are both sustainable and immediately impactful. First, review insurance coverage and remove overlapping benefits; a moderate premium cut can often be achieved without sacrificing essential protection. Next, set a monthly target for miscellaneous spending by identifying recurring small expenses and consolidating them into a fixed budget. Keep housing and utilities stable for now, and apply only modest reductions to food and communication to avoid lowering quality of life too much.",
+    "reduction_plan": {
+        "Housing": {
+            "reduction_rate": 0.0
+        },
+        "Food": {
+            "reduction_rate": 0.05
+        },
+        "Utilities": {
+            "reduction_rate": 0.0
+        },
+        "Communication": {
+            "reduction_rate": 0.10
+        },
+        "Leisure": {
+            "reduction_rate": 0.10
+        },
+        "Miscellaneous": {
+            "reduction_rate": 0.15
+        },
+        "Insurance": {
+            "reduction_rate": 0.42857
+        }
+    }
+}

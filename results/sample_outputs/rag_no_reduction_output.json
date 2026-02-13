@@ -1,0 +1,26 @@
+{
+    "advice_text": "Based on a similar single-person household profile, the most effective approach during a career transition is to reduce fixed expenses first and then tighten variable spending. In your case, insurance premiums and miscellaneous spending appear relatively high compared to total monthly expenses. Consider simplifying coverage and separating 'needs' vs 'wants' within miscellaneous spending (subscriptions, small recurring purchases, etc.). This can improve monthly stability without making your lifestyle feel overly restricted.",
+    "reduction_plan": {
+        "Housing": {
+            "reduction_rate": 0.0
+        },
+        "Food": {
+            "reduction_rate": 0.05
+        },
+        "Utilities": {
+            "reduction_rate": 0.0
+        },
+        "Communication": {
+            "reduction_rate": 0.12
+        },
+        "Leisure": {
+            "reduction_rate": 0.10
+        },
+        "Miscellaneous": {
+            "reduction_rate": 0.20
+        },
+        "Insurance": {
+            "reduction_rate": 0.25
+        }
+    }
+}
